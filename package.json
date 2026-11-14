@@ -1,0 +1,12 @@
+{
+  "name": "multichannel-downmixer",
+  "version": "0.1.0",
+  "description": "Pure Node.js multichannel audio downmixing library (mono/stereo/5.1/7.1) with LFE control, gain smoothing and peak reporting",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
